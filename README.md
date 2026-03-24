@@ -1,5 +1,7 @@
 # mantiq_num2words
 
+> **This is a proof of concept.** Do not use in official documents, invoices, or any production context where accuracy is critical. Language rules and currency names have not been fully verified by native speakers.
+
 Multilingual number-to-words conversion with currency support, written in Rust.
 
 ## Features
