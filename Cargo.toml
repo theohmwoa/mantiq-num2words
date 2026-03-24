@@ -1,0 +1,7 @@
+[package]
+name = "mantiq_num2words"
+version = "0.1.0"
+edition = "2024"
+description = "Multilingual number-to-words conversion with currency support"
+
+[dependencies]
